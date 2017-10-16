@@ -2,7 +2,7 @@
 
 var range = require('mdast-util-heading-range');
 var u = require('unist-builder');
-var cuss = require('cuss');
+var cuss = require('coparenter-cuss');
 
 module.exports = table;
 

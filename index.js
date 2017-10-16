@@ -7,7 +7,7 @@ var pluralize = require('pluralize');
 var nlcstToString = require('nlcst-to-string');
 var quotation = require('quotation');
 var search = require('nlcst-search');
-var cuss = require('cuss');
+var cuss = require('coparenter-cuss');
 
 /* Misclassified singulars and plurals. */
 var skip = [

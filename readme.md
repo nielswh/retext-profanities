@@ -1,7 +1,7 @@
 # retext-profanities [![Build Status][travis-badge]][travis] [![Coverage Status][codecov-badge]][codecov]
 
 Check for [profane and vulgar][profanities] wording with
-[**retext**][retext].  Uses [cuss][] for sureness.
+[**retext**][retext].  Uses [coparenter-cuss][] for sureness.
 
 ## Installation
 
